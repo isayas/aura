@@ -2,14 +2,14 @@
     <v-container class="pa-0 pb-5">
         <v-layout wrap align-center justify-center row fill-height>
             <v-flex xs12 md12>
-                <p class="google-font mt-2 mb-0" style="font-size:170%;color:#37474F;" >Partners</p>
-                <p class="google-font mt-1 mb-0" style="font-size:120%">A very big thank you to all our partners for their continued partnership.</p>
-                <p class="google-font mt-0" style="font-size:120%">If you’re interested in being showcased throughout <b>{{chapterDetails.ChapterName}}</b>, contact <a style="color:#1565C0;text-decoration: none;" :href="`mailto:${chapterDetails.ChapterEmail}`">{{chapterDetails.ChapterEmail}}</a> to discuss sponsorship opportunities.</p>
+                <p class="google-font mt-2 mb-0" style="font-size:170%;color:#37474F;" >Patrocinadores</p>
+                <p class="google-font mt-1 mb-0" style="font-size:120%">Muchas gracias a todos nuestros patrocinadores por su apoyo constante.</p>
+                <p class="google-font mt-0" style="font-size:120%">Si estas interesado en patrocinar a <b>{{chapterDetails.ChapterName}}</b>, escríbenos <a style="color:#1565C0;text-decoration: none;" :href="`mailto:${chapterDetails.ChapterEmail}`">{{chapterDetails.ChapterEmail}}</a>.</p>
             </v-flex>
 
             <v-flex xs12 md12 class="mt-2">
-                <p class="google-font my-2" style="font-size:110%">General Partners</p>
-                
+                <p class="google-font my-2" style="font-size:110%">Patrocinador General</p>
+
 
                 <v-layout row wrap class="transparent">
                     <v-flex xs12 sm7 class="elevation-0 transparent">
@@ -22,11 +22,11 @@
                                         md3
                                         sm4
                                         d-flex
-                                        class="pa-0 white elevation-0" 
+                                        class="pa-0 white elevation-0"
                                     >
                                     <!-- style="border-radius:5px;border-color:#e0e0e0;border-width: 1px; border-style: solid;" -->
                                     <v-card flat tile class="d-flex pa-2 ma-1 elevation-1" style="border-radius:4px;border-width: 0px; border-style: solid;">
-                                        
+
                                         <a v-bind:href="itemp.link" target="_blank" >
                                             <v-tooltip bottom>
                                             <template v-slot:activator="{ on }">
@@ -51,7 +51,7 @@
                                             <span class="google-font">{{itemp.name}}</span>
                                             </v-tooltip>
                                         </a>
-                                        
+
                                     </v-card>
                                     </v-flex>
 
@@ -64,7 +64,7 @@
             </v-flex>
 
             <v-flex xs12 md12 class="mt-3">
-                <p class="google-font my-2" style="font-size:110%">Template Partner</p>
+                <p class="google-font my-2" style="font-size:110%">Plantilla</p>
 
                 <v-layout class="transparent" >
                     <v-flex xs12 sm11 class="elevation-0 transparent">

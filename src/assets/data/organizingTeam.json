@@ -1,47 +1,37 @@
 [
     {
-        "name":"Name",
+        "name":"Diana",
         "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Management",
-        "twitter":"",
+        "twitter":"https://twitter.com/DianaSchultz ",
         "linkedin":"https://www.linkedin.com/",
         "github":"",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
+        "name":"Esmeralda",
         "designation":"Development",
         "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
+        "linkedin":"https://www.linkedin.com/in/esmeralda-guadalupe-puc-pool-8baba7151/",
+        "github":"",
+        "profileImage":"esmeralda.jpeg",
+        "website":""
+    },{
+        "name":"Gabriel",
+        "designation":"Development",
+        "twitter":"https://twitter.com/HeyGabs7",
+        "linkedin":"https://www.linkedin.com/in/gabriel-rosales-aparicio-a34a24152/",
+        "github":"",
+        "profileImage":"gabriel.jpeg",
         "website":""
     },
     {
-        "name":"Name",
+        "name":"Geovanny",
         "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
+        "twitter":"https://twitter.com/geovannyad",
+        "linkedin":"https://www.linkedin.com/in/geovannyad/",
+        "github":"",
+        "profileImage":"geovanny.jpeg",
         "website":""
     }
 ]

@@ -1,34 +1,29 @@
 {
-    "ChapterName":"GDG Jalandhar",
-    "ChapterShortDescription":"Google Developers Group Jalandhar is an initiative to concentrate the efforts of many developers in and around Punjab to learn, share and get productive using the various Google products.",
-    "ChapterLongDec":"Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
-    "ChapterEmail":"gdgjalandhar@gmail.com",
+    "ChapterName":"GDG Chetumal",
+    "ChapterShortDescription":"Google Developers Group Chetumal es una iniciativa para concentrar los esfuerzos de diferentes desarrolladores dentro y alrededor de Chetumal para aprender, compartir y ser mas competitivos usando los productos de Google y otras tecnologías.",
+    "ChapterLongDec":"Google Developer Group Chetumal esta inspirado por la Comunidad GDG. Nos lanzamos a esta travesia desde 2018. Tratamos de involucrar a todos los desarrolladores, estudiantes, recién graduados y profesionales a través de nuestros eventos y reuniones. El motivo es crear un ecosistema local de programadores y tecnologos en Chetumal y sus alrededores.",
+    "ChapterMeetupLink":"https://www.meetup.com/GDGChetumal",
+    "ChapterEmail":"gdgchetumal@gmail.com",
     "website":"https://gdgjalandhar.com",
     "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGJalandhar","WTMJalandhar","GDG","WTM"],
+    "ChapterHashTags":["GDGChetumal","GDG","WTM"],
     "socialLinks":[
         {
             "name" : "Facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
+            "link" : "https://www.facebook.com/GDGChetumal/",
             "icon" : "fab fa-facebook"
         },
         {
-            "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fab fa-google-plus"
-        },
-        {
             "name" : "Twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/gdgchetumal",
             "icon" : "fab fa-twitter"
         },
         {
             "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
+            "link" : "https://www.meetup.com/GDGChetumal/",
             "icon" : "fab fa-meetup"
         }
     ],
     "wtmWebsite":"https://www.womentechmakers.com/",
-    "aboutGDGProgram":"GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons."
+    "aboutGDGProgram":"GDGs son grupos locales de desarrolladores quienes están especificamente interesados en productos de Google y APIs. Cada grupo local es llamado un capítulo GDG y puede realizar una variedad de actividades para desarrolladores, diseñadores y usuarios amantes de la tecnología."
 }

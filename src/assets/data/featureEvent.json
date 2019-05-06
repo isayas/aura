@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"IWD'19 Jalandhar",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"Google I/O Extended '19 Chetumal",
+    "EventImage":"I_O_19_Extended_Chetumal.png",
     "EventDate":{
-        "Date":"31",
-        "Month":"3",
+        "Date":"7",
+        "Month":"4",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "StartTime":"10:00 AM",
+        "EndTime":"04:00 PM"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
+    "EventVenue":"Anexo del Centro de Información Auditorio José Vasconcelos",
+    "EventVenueMapLink":"https://goo.gl/maps/UoASu1YCBEnWRsY36",
+    "EventWebsite":"https://www.meetup.com/es/GDGChetumal/events/260270101/",
+    "EventDescription":"Google I/O Extended 2019 presenta lo mejor de las tecnologías de Google en el evento que se transmitirá en vivo desde Mountain View, California para el público asistente en la ciudad de Chetumal, Quintana Roo.",
     "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
+    "RegistrationLink":"https://www.meetup.com/es/GDGChetumal/events/260270101/",
     "FBEventPageURL":"s"
 }
 

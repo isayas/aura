@@ -6,7 +6,7 @@
       app
       color="white"
       class="elevation-2"
-      
+
     >
       <v-btn
         color="#518FF5"
@@ -15,7 +15,7 @@
         router
         to="/home"
       >
-        <span>Home</span>
+        <span>Inicio</span>
         <v-icon>dashboard</v-icon>
       </v-btn>
 
@@ -26,7 +26,7 @@
         router
         to="/events"
       >
-        <span>Events</span>
+        <span>Eventos</span>
         <v-icon>rounded_corner</v-icon>
       </v-btn>
 
@@ -37,7 +37,7 @@
         router
         to="/team"
       >
-        <span>Team</span>
+        <span>Equipo</span>
         <v-icon>group</v-icon>
       </v-btn>
 
@@ -48,11 +48,11 @@
         router
         to="/about"
       >
-        <span>About</span>
+        <span>Acerca De</span>
         <v-icon>toc</v-icon>
       </v-btn>
 
-      
+
 
       <!-- <v-btn
         color="#518FF5"
@@ -61,7 +61,7 @@
         router
         to="/contact"
       >
-        <span>Contant</span>
+        <span>Contanto</span>
         <v-icon>person</v-icon>
       </v-btn> -->
 
