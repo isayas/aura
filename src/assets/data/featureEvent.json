@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"Google I/O Extended '19 Chetumal",
-    "EventImage":"I_O_19_Extended_Chetumal.png",
+    "FeatureEventName":"#CODESUNSET v2",
+    "EventImage":"codesunset.png",
     "EventDate":{
-        "Date":"7",
-        "Month":"4",
+        "Date":"12",
+        "Month":"7",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"10:00 AM",
-        "EndTime":"04:00 PM"
+        "StartTime":"07:25 PM",
+        "EndTime":"08:30 PM"
     },
-    "EventVenue":"Anexo del Centro de Información Auditorio José Vasconcelos",
-    "EventVenueMapLink":"https://goo.gl/maps/UoASu1YCBEnWRsY36",
-    "EventWebsite":"https://www.meetup.com/es/GDGChetumal/events/260270101/",
-    "EventDescription":"Google I/O Extended 2019 presenta lo mejor de las tecnologías de Google en el evento que se transmitirá en vivo desde Mountain View, California para el público asistente en la ciudad de Chetumal, Quintana Roo.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://www.meetup.com/es/GDGChetumal/events/260270101/",
+    "EventVenue":"Canal YouTube",
+    "EventVenueMapLink":"http://bit.ly/30k5KYT",
+    "EventWebsite":"https://www.meetup.com/es/GDGChetumal/events/262642053/",
+    "EventDescription":"GDG Chetumal presenta CODESUNSET donde estamos cada viernes transmitiendo en vivo para hablar de tecnología.",
+    "MeetupLink":"http://bit.ly/30k5KYT",
+    "RegistrationLink":"http://bit.ly/30k5KYT",
     "FBEventPageURL":"s"
 }
 
