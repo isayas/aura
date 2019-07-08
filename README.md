@@ -1,12 +1,12 @@
 # Aura - GDG[x]
-
+[![MadeWithVueJs.com shield](https://madewithvuejs.com/storage/repo-shields/1444-shield.svg)](https://madewithvuejs.com/p/aura/shield-link)
 <!-- [![Build Status](https://travis-ci.org/Vrijraj/aura.svg?branch=master)](https://travis-ci.org/Vrijraj/aura) -->
 
 <img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/Aura%20v1.0.3.png">
 
 Standard Web App for GDG's Communties. <br>
 [Demo](https://aura-client-master.firebaseapp.com/) <br>
-Version: 1.0.3
+Version: 1.0.5
 
 ## Overview
 
@@ -90,6 +90,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * [Vuetify](https://vuetifyjs.com/en/)
 * [Firebase](https://firebase.google.com/)
 * [Service Worker & PWA](https://www.npmjs.com/package/vue-pwa)
+* [Workbox](https://developers.google.com/web/tools/workbox)
 
 ### View Website Built with Project 
 
@@ -105,7 +106,22 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 | GDG Gran Canaria | [View Now](https://gdggrancanaria.org/) |
 | GDG Santander | [View Now](https://gdgsantander.com/) |
 | GDG Ciudad del Este | [View Now](http://gdgcde.org/) |
-
+| GDG Ilorin | [View Now](https://gdg-ilorin-d9f0d.firebaseapp.com/) |
+| GDG Chetumal | [View Now](https://gdg-chetumal.firebaseapp.com/) |
+| GDG Porto | [View Now](https://gdgporto-aura.firebaseapp.com/) |
+| GDG Istanbul | [View Now](https://gdgist.firebaseapp.com/) |
+| GDG Port-of-Spain | [View Now](https://gdgpos.com/) |
+| GDG Jeddah | [View Now](https://www.gdgjed.com/home) |
+| GDG Sevilla | [View Now](https://www.gdgsevilla.com/) |
+| GDG Madeira | [View Now](https://gdgmadeira.xyz/) |
+| GDG Chandigarh | [View Now](https://gdg-chd.web.app/) |
+| GDG Rochester | [View Now](https://gdgrochester.com/) |
+| GDG Sri Lanka | [View Now](https://gdgsrilanka.org) |
+| GDG Lafia | [View Now](https://lafia.gdg.ng/) |
+| GDG Kinshasa | [View Now](https://gdg-kin.firebaseapp.com/) |
+| Dev Cluster Goa | [View Now](https://beta.devcluster.community/) |
+| GDG Cloud Calgary | [View Now](https://gdgyyc.com/) |
+| GDG Cloud SF | [View Now](https://cloudsf.withgdg.com/) |
 
 
 

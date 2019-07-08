@@ -1,6 +1,6 @@
 {
   "name": "gdg-web-app",
-  "version": "0.1.0",
+  "version": "1.0.5",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -14,9 +14,16 @@
     "roboto-fontface": "*",
     "vue": "^2.6.10",
     "vue-axios": "^2.1.4",
+<<<<<<< HEAD
     "vue-router": "^3.0.7",
     "vuetify": "^1.5.16",
     "vuex": "^3.1.1"
+=======
+    "vue-router": "^3.0.1",
+    "vuetify": "^1.3.0",
+    "vuex": "^3.0.1",
+    "cwebp-bin": "^5.0.0"
+>>>>>>> upstream/master
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.2",

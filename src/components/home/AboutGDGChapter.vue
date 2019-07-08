@@ -10,23 +10,7 @@
                &nbsp;
                <v-btn :href="chapterDetails.socialLinks[0].link" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Síguenos en Facebook</v-btn>
                 <br><br>
-               <router-link to="/about" class="google-font" style="text-decoration:none;color:white">Conóce más de  {{chapterDetails.ChapterName}}</router-link>
-            </v-flex>
-            <v-flex xs12 md2 lg2 class="hidden-sm-and-down">
-               <v-img
-                    :src="require('@/assets/img/svg/svg1.svg')"
-                    :lazy-src="require('@/assets/img/svg/svg1.svg')"
-                    width="100%">
-                    <v-layout
-                        slot="placeholder"
-                        fill-height
-                        align-center
-                        justify-center
-                        ma-0
-                    >
-                        <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
-                    </v-layout>
-                </v-img>
+               <router-link to="/about" class="google-font" style="text-decoration:none;color:white">Conoce más de  {{chapterDetails.ChapterName}}</router-link>
             </v-flex>
         </v-layout>
 
