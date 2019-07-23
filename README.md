@@ -122,6 +122,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 | Dev Cluster Goa | [View Now](https://beta.devcluster.community/) |
 | GDG Cloud Calgary | [View Now](https://gdgyyc.com/) |
 | GDG Cloud SF | [View Now](https://cloudsf.withgdg.com/) |
+| GDG Nagpur | [View Now](https://gdgnagpur.com/) |
+| GDG Kolkata | [View Now](https://gdgkolkata.org/) |
 
 
 
