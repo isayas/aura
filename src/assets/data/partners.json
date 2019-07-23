@@ -1,5 +1,9 @@
 [
-
+    {
+        "name":"JetBrains",
+        "link":"https://www.jetbrains.com",
+        "img":"jetbrains.svg"
+    },
     {
         "name":"Instituto Tecnológico de Chetumal",
         "link":"http://itchetumal.edu.mx/",

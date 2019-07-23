@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"#CODESUNSET v2",
-    "EventImage":"codesunset.png",
+    "FeatureEventName":"DevFest Chetumal 2019",
+    "EventImage":"devfest.png",
     "EventDate":{
-        "Date":"12",
-        "Month":"7",
+        "Date":"25",
+        "Month":"10",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"07:25 PM",
-        "EndTime":"08:30 PM"
+        "StartTime":"10:00 PM",
+        "EndTime":"15:00 PM"
     },
-    "EventVenue":"Canal YouTube",
-    "EventVenueMapLink":"http://bit.ly/30k5KYT",
-    "EventWebsite":"https://www.meetup.com/es/GDGChetumal/events/262642053/",
-    "EventDescription":"GDG Chetumal presenta CODESUNSET donde estamos cada viernes transmitiendo en vivo para hablar de tecnología.",
-    "MeetupLink":"http://bit.ly/30k5KYT",
-    "RegistrationLink":"http://bit.ly/30k5KYT",
+    "EventVenue":"Por confirmar",
+    "EventVenueMapLink":"",
+    "EventWebsite":"https://www.meetup.com/es/GDGChetumal/events/263106106/",
+    "EventDescription":"GDG Chetumal presenta su DevFest Chetumal 2019, el mayor evento tecnológico anual de los GDG celebrado en más de 730 ciudades a nivel mundial. Nuestro objetivo es reunir a los mejores exponentes técnicos y acercar el conocimiento a nuestras comunidades locales.",
+    "MeetupLink":"https://www.meetup.com/es/GDGChetumal/events/263106106/",
+    "RegistrationLink":"https://www.meetup.com/es/GDGChetumal/events/263106106/",
     "FBEventPageURL":"s"
 }
 
